@@ -61,7 +61,7 @@ Gosto de resolver problemas complexos, integrar sistemas e transformar ideias em
 
 ### 📫 Como me encontrar
 
-- 💼 [LinkedIn](www.linkedin.com/in/samir-borges)  
+- 💼 [LinkedIn]([www.linkedin.com/in/samir-borges](https://www.linkedin.com/in/samir-borges/))  
 - 📧 **alessandro.samir@souunit.com.br**  
 
 ---
@@ -117,7 +117,7 @@ Problem-solving, API design, and data-driven decision-making are my favorite par
 
 ### 📫 Contact
 
-- 💼 [LinkedIn](www.linkedin.com/in/samir-borges)  
+- 💼 [LinkedIn]([www.linkedin.com/in/samir-borges](https://www.linkedin.com/in/samir-borges/))  
 - 📧 **alessandro.samir@souunit.com.br**
 
 ---
